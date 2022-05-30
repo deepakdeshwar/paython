@@ -1,5 +1,4 @@
 @Library('somelib')
-print("code working")
 import mysql.connector
 import requests
 import json
