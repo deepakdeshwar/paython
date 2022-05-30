@@ -1,8 +1,8 @@
 @Library('somelib')
-import mysql.connector
-import requests
-import json
-from geopy.geocoders import Nominatim
+# import mysql.connector
+# import requests
+# import json
+# from geopy.geocoders import Nominatim
 geolocator = Nominatim(user_agent="my_user_agent")
 
 
