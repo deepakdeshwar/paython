@@ -113,9 +113,12 @@ def createnewcard(cardname):
     
     
 
-siteid=input('enter site id : ')
-nameofsite=input('enter site ')
-siteurl=input('enter url')
+#siteid=input('enter site id : ')
+siteid = 20
+#nameofsite=input('enter site ')
+nameofsite = "a"
+#siteurl=input('enter url')
+siteurl = "ax"
 
 # Site id: 302, Site name: KFM Engineering and Design
 c_name="Site id: "+ siteid + ", Site name:"+nameofsite
