@@ -274,13 +274,7 @@ dbentry(siteid,nameofsite,siteurl)
 createnewcard(c_name) 
 
 
-# In[1]:
 
-
-pip freeze
-
-
-# In[ ]:
 
 
 
