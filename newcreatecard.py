@@ -114,7 +114,7 @@ def createnewcard(cardname):
     
 
 #siteid=input('enter site id : ')
-siteid = 20
+siteid = "20"
 #nameofsite=input('enter site ')
 nameofsite = "a"
 #siteurl=input('enter url')
