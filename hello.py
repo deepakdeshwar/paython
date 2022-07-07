@@ -17,10 +17,10 @@ geolocator = Nominatim(user_agent="my_user_agent")
 
 # import mysql.connector
 mydb = mysql.connector.connect(
-  host="localhost",
-  user="root",
+  host="imbetadb.c5mx8jxfho3x.us-east-1.rds.amazonaws.com",
+  user="markets",
     
-  password="root",
+  password="ffn2dt16h",
   database="aggregator"
 )
 mycursor = mydb.cursor()   
